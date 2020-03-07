@@ -23,7 +23,7 @@
     <item
         android:id="@+id/kesehatan"
         android:title="@string/kesehatan"
-        android:icon="@drawable/heartbeat"
+        android:icon="@drawable/health"
         android:enabled="true"/>
 
     <item
